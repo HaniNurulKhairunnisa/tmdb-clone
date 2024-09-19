@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-# tmdb-clone
-
-=======
-
 # TMDB Clone - task-tmdb-clone
 
 Ini adalah project kloning The Movie Database (TMDB) yang dibuat menggunakan **Next.js**.
@@ -29,7 +23,7 @@ Pastikan Anda memiliki hal-hal berikut terinstal di mesin Anda:
 Pertama, kloning repository ini ke mesin lokal Anda:
 
 ```bash
-git clone https://github.com/yourusername/task-tmdb-clone.git
+git clone https://github.com/HaniNurulKhairunnisa/tmdb-clone.git
 ```
 
 ### 2. Masuk ke directory projek
@@ -49,5 +43,3 @@ npm install
 ```bash
 npm run dev
 ```
-
-> > > > > > > e3d01c0 (First commit)
