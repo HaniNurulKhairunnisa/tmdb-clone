@@ -29,7 +29,7 @@ git clone https://github.com/HaniNurulKhairunnisa/tmdb-clone.git
 ### 2. Masuk ke directory projek
 
 ```bash
-cd task-tmdb-clone
+cd tmdb-clone
 ```
 
 ### 3. Install Depedensi
